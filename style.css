@@ -1,0 +1,114 @@
+body{
+   background-image: url(https://images.template.net/wp-content/uploads/2014/10/14065027/Galaxy-Backgrounds.jpg);
+}
+h1{
+    text-align: center;
+    font-size: 2cm;
+    font-family: cookie ;
+}
+a{
+    color: yellow;
+
+    }
+    .bodyimg h3{
+        color:black;
+        font-size: 15px;
+        font-family:sans-serif;
+        text-align:center;
+        position:absolute;
+        transform:translate(0%, -200%);
+        
+        
+        
+}
+bodyimg{
+    position: relative;
+}
+.bodyimg p{
+    color:#000000;
+    font-size: 35px;
+    font-family: sans-serif;
+    text-align:center;
+    position:absolute;
+    transform:translate(-50%, -50%);
+    top:35%;
+    left:50%;
+    
+}
+.bodyimg h3{
+    color:#000000;
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align:center;
+    position:absolute;
+    transform:translate(0%, -200%);
+    
+    
+}
+ .header{
+
+text-align: center;
+    color:white ;
+ 
+     justify-content: space-between;
+ }
+ .grid {
+   
+color: white;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-around;
+ }
+.grid img{
+    border: 5px double rgba(38, 0, 255, 0.473);
+    border-radius: 40px;
+    background-color: white;
+   
+}
+
+.grid p{
+    color: yellow;
+}
+.item1 {
+    background-color: black;
+    justify-content: space-between;
+  border-radius: 20px;
+ width: 400px;
+ 
+}
+.item2 {
+    background-color: black;
+    justify-content: space-between;
+  border-radius: 20px;
+ width: 400px;
+ 
+}
+.item3 {
+    background-color: black;
+    justify-content: space-between;
+  border-radius: 20px;
+ width: 400px;
+ 
+}
+.item4 {
+    background-color: black;
+    justify-content: space-between;
+  border-radius: 20px;
+ width: 400px;
+ 
+}
+.item5 {
+    background-color: black;
+    justify-content: space-between;
+  border-radius: 20px;
+ width: 400px;
+ 
+}
+.item6 {
+    background-color: black;
+    justify-content: space-between;
+  border-radius: 20px;
+ width: 400px;
+ 
+ 
+}
